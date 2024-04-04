@@ -1,18 +1,4 @@
 [{
-	"_id": "ai",
-	"classify": "人工智能",
-	"icon": "ti-heart",
-	"sites": [ {
-		"name": "ChatGPT",
-		"href": "https://chat.openai.com/",
-		"desc": "宇宙最强AI",
-		"logo": "https://chat.openai.com/favicon.ico"
-	}, {
-		"name": "Bard",
-		"href": "https://bard.google.com/",
-		"desc": "谷歌AI",
-		"logo": "https://www.gstatic.com/lamda/images/gemini_favicon_f069958c85030456e93de685481c559f160ea06b.png"
-	}]
 	"_id": "ruanjian",
 	"classify": "软件社区",
 	"icon": "ti-download",
