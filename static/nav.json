@@ -1,18 +1,22 @@
 [{
+	"_id": "ai",
+	"classify": "人工智能",
+	"icon": "ti-download",
+	"sites": [ {
+		"name": "ChatGPT",
+		"href": "https://chat.openai.com/",
+		"desc": "宇宙最强AI",
+		"logo": "https://chat.openai.com/favicon.ico"
+	}, {
+		"name": "Bard",
+		"href": "https://bard.google.com/",
+		"desc": "谷歌AI",
+		"logo": "https://www.gstatic.com/lamda/images/gemini_favicon_f069958c85030456e93de685481c559f160ea06b.png"
+	}]
 	"_id": "ruanjian",
 	"classify": "软件社区",
 	"icon": "ti-download",
-	"sites": [{
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件安全与病毒分析,逆向、破解、技术",
-		"logo": "static/icons/52pojie.cn.ico"
-	}, {
-		"name": "镜像网站导航",
-		"href": "http://www.dayanzai.me/",
-		"desc": "镜像网站导航",
-		"logo": "static/icons/dayanzai.me.ico"
-	}, {
+	"sites": [ {
 		"name": "大眼仔旭",
 		"href": "http://www.dayanzai.me/",
 		"desc": "绿软、汉化软件分享",
@@ -408,9 +412,9 @@
 	"classify": "优秀博客",
 	"icon": "ti-medall-alt",
 	"sites": [{
-		"name": "Rat's Blog ",
-		"href": "https://www.moerats.com/",
-		"desc": "KMS、VPS、Aria2相关主机与建站技术分享",
-		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
+		"name": "科技ONE博客 ",
+		"href": "https://www.kejione.com/",
+		"desc": "各种有趣资源",
+		"logo": "https://www.kejione.com/favicon.ico"
 	}]
 }]
